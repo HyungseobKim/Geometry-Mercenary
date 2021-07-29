@@ -2,13 +2,13 @@ Geometry Mercenary
 
 2D / Rogue-like / Auto-battler Game
 Solo school project.
--------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 FILES
 If you want to play the game, go Installer folder. There is a setup file.
 Run setup file and follow the insctructions.
 
 If you want to see source code, go to Source folder.
--------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 HOW TO PLAY
 
 This game uses only mouse input. Therefore, you cannot use a keyboard or console controller during gameplay.
