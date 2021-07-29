@@ -4,6 +4,7 @@ Geometry Mercenary
 Solo school project.
 -------------------------------------------------------------------------------------------------------------------------
 FILES
+
 If you want to play the game, go Installer folder. There is a setup file.
 Run setup file and follow the insctructions.
 
